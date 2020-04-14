@@ -1,5 +1,6 @@
 from __future__ import print_function
-import os
+import os,sys
+#edicion ines
 import sys
 import time
 os.environ["OMP_NUM_THREADS"] = "1"  # export OMP_NUM_THREADS=4
